@@ -138,10 +138,7 @@ footer nav{
     border-radius: 300px;
     padding: 1px; 
   }
-  .img2{
-    max-width: 100%;
-    height: auto;
-  }
+ 
   
   .button {
     background-color: var(--dark);
